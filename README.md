@@ -93,49 +93,63 @@ EJERCICIOS CAPITULO 11 Y 12
 
 26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
 
+![image](https://user-images.githubusercontent.com/104911658/213717348-41007fda-34a2-4afb-a25d-c6fddc5f6109.png)
 
 
--Solucion:
+![image](https://user-images.githubusercontent.com/104911658/213717470-8d12c98b-4c88-4c71-a452-69254b2fe957.png)
 
-image
+28. Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
+![image](https://user-images.githubusercontent.com/104911658/213717743-46c10c92-6867-485d-a13f-acf43ed5d1fd.png)
 
-Determine el voltaje rms entre los extremos de R3 en la figura 11-82.
-image
+![image](https://user-images.githubusercontent.com/104911658/213717884-b0e31113-7730-44d8-a30e-ed2368a9bb23.png)
 
-Solucion:
+30. ¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
 
-image
+![image](https://user-images.githubusercontent.com/104911658/213718083-97d6acbc-7b3a-43b9-9a17-25b722357dc3.png)
 
-¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?
-image
+32. La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
 
-La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
-image
+![image](https://user-images.githubusercontent.com/104911658/213718270-ac44c2cf-ef7b-4123-ab91-6f0b38bd8495.png)
 
--Solucion:
+![image](https://user-images.githubusercontent.com/104911658/213718384-179cd8de-eedc-42a4-a5b6-07abf4b54d6c.png)
 
-image
+34. La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
 
-La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?
-image
+![image](https://user-images.githubusercontent.com/104911658/213718533-84f62dd2-7fe2-47fb-97a5-2bcd784d72c8.png)
 
-Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
-image
+36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86.
 
--Solucion:
+![image](https://user-images.githubusercontent.com/104911658/213718752-a5ea0254-24e9-42fa-aa72-a2f1d7aa484a.png)
 
-image
+![image](https://user-images.githubusercontent.com/104911658/213718866-a7676be0-9e39-4951-85bf-5c53ec3ee3a4.png)
 
-Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
-image
+40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio.
 
-¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
-image
+![image](https://user-images.githubusercontent.com/104911658/213719162-eb4a2c27-37ec-49d9-96ea-7bb336318be9.png)
+
+42. ¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?
+
+![image](https://user-images.githubusercontent.com/104911658/213719347-d2d9b321-742d-4d77-b00e-b3366c64ac75.png)
+
 
 44.Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.
 
-image
+![image](https://user-images.githubusercontent.com/104911658/213719478-93cf09d0-5a27-4ad7-9a43-c135313ffac1.png)
 
-Solucion:
+![image](https://user-images.githubusercontent.com/104911658/213719618-a400e11c-4b42-472e-80b1-6fc28f3792b4.png)
 
-image
+4. VIDEO:
+
+https://www.youtube.com/watch?v=o3XQGDAzV3Y
+
+5. CONCLUSIONES:
+
+* Cada capítulo ha sido de mucha importancia para comprender cada tema redactado, de igual manera analizando cada capítulo se puede resolver cada problema planteado de una manera correcta.
+
+* Los temas de capacitores e inductores han sido de mucha ayuda al momento de resolver ejercicios y problemas acerca de circuitos.
+
+6. BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
+
+https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view?pli=1
