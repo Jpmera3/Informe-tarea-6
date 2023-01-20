@@ -28,6 +28,8 @@
 
 EJERCICIOS CAPITULO 11 Y 12
 
+#CAPITULO 11
+
 2.Calcule el periodo de cada uno de los siguientes valores de frecuencia:
 
 ![image](https://user-images.githubusercontent.com/104911658/213465065-a63a7ddb-884d-4514-9c0e-013f6bffd470.png)
@@ -137,6 +139,77 @@ EJERCICIOS CAPITULO 11 Y 12
 ![image](https://user-images.githubusercontent.com/104911658/213719478-93cf09d0-5a27-4ad7-9a43-c135313ffac1.png)
 
 ![image](https://user-images.githubusercontent.com/104911658/213719618-a400e11c-4b42-472e-80b1-6fc28f3792b4.png)
+
+#CAPITULO 12
+
+1. Vea la figura 12-41:
+
+![image](https://user-images.githubusercontent.com/104911658/213721917-c4a9b560-4809-4396-9202-22e01a0855c7.png)
+
+3. El toroide de la figura 12-42 tiene una sección transversal circular y  628 Wb. Si r1  8 cm y r2  12 cm, ¿cuál es la densidad de flujo en teslas?
+
+![image](https://user-images.githubusercontent.com/104911658/213722219-d8eed6fd-dd13-4a3e-8139-11991c2ab591.png)
+
+![image](https://user-images.githubusercontent.com/104911658/213722637-c496ac18-0f56-4ee1-900c-e496ff14009c.png)
+
+5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B 1.45 T, ¿qué valor tiene en webers? 12-6 Elementos en serie y en paralelo
+
+![image](https://user-images.githubusercontent.com/104911658/213722295-6337acfc-564b-4bc4-af25-289c1c3e935b.png)
+
+7. Para la sección del núcleo de hierro de la figura 12-45, si 1 - 12 mWb y 3 - 2 mWb, ¿cuánto vale B2?
+
+![image](https://user-images.githubusercontent.com/104911658/213722347-5cfe508b-dbec-4a77-ab84-f6bae9b8114e.png)
+
+9. Un núcleo con dimensiones de 2 cm Y 3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA = 0.94?
+
+11. ![image](https://user-images.githubusercontent.com/104911658/213722453-2fe9a094-adab-48e8-9cf5-6df74285d57c.png)
+
+![image](https://user-images.githubusercontent.com/104911658/213722546-9cc8a9f3-133d-4311-9f38-695adb3c8a47.png)
+
+13. Considere una vez más la figura 12-42. Si I  10 A, N = 40 vueltas, r1 = 5 cm y r2 = 7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+
+![image](https://user-images.githubusercontent.com/104911658/213722687-44113797-9f4f-4748-a6bc-39aa2259e740.png)
+
+15. Suponga que una bobina N2 que lleva la corriente I2 se añade al brazo 3 del núcleo que se muestra en la figura 12-47 y que produce un flujo dirigido hacia arriba. Sin embargo, suponga que el flujo neto en el brazo 3 aún va hacia abajo. Escriba las ecuaciones de la ley de Ampère para este caso.
+
+![image](https://user-images.githubusercontent.com/104911658/213722789-964c3289-0f65-4a96-b393-a6057971bf14.png)
+
+![image](https://user-images.githubusercontent.com/104911658/213722827-0c6217f5-9591-4182-8f72-82c86100b105.png)
+
+17. Encuentre la corriente I en la figura 12-48 si  0.16 mWb.
+
+![image](https://user-images.githubusercontent.com/104911658/213722910-4474e0f8-ad00-42fb-a198-f15aaa39e424.png)
+
+![image](https://user-images.githubusercontent.com/104911658/213722980-d3a2c630-1b50-4b1f-9654-100ac46dbde0.png)
+
+![image](https://user-images.githubusercontent.com/104911658/213723031-078bd977-3d33-478b-86af-60bb2fb08733.png)
+
+19. Se corta un espacio de 0.5 mm en la porción del núcleo de acero fundido de la figura 12-48. Encuentre la corriente para  0.128 mWb. No tome en cuenta el desbordamiento.
+
+![image](https://user-images.githubusercontent.com/104911658/213723152-77085714-94a9-4e64-8b16-08d2b872f73e.png)
+
+![image](https://user-images.githubusercontent.com/104911658/213723196-08149190-4cbe-49fb-a74b-436829714c90.png)
+
+21. El núcleo de hierro fundido de la figura 12-49 mide 1 cm ,1.5 cm, a  0.3 mm, la densidad de flujo del espacio de aire es de 0.426 T y N = 600 vueltas. Los extremos de la pieza tienen forma semicircular. Tomando en cuenta el desbordamiento, encuentre la corriente I.
+
+![image](https://user-images.githubusercontent.com/104911658/213723286-49344a69-540c-48e5-aeb7-3535e8cf94aa.png)
+
+23. Para el circuito de la figura 12-51, 30 Wb y N = 2000 vueltas. No tome en cuenta el desbordamiento y encuentre la corriente I
+
+![image](https://user-images.githubusercontent.com/104911658/213723667-0bbbbc3e-a5e2-4cfa-b472-bb7132bb55e1.png)
+
+
+25. Una segunda bobina de 450 vueltas con I2 = 4 amperes se devana en la porción de acero fundido de la figura 12-52. Su flujo está en oposición al flujo producido por la bobina original. El flujo resultante es de 35 000 líneas en dirección contraria a la de las manecillas del reloj. Encuentre la corriente Ii.
+
+![image](https://user-images.githubusercontent.com/104911658/213723858-9ccad690-f773-4528-aed9-1d422ed2c4d7.png)
+
+27. Si el circuito de la figura 12-53 no tiene espacio y 3 Y 0.2 mWb, encuentre I
+
+![image](https://user-images.githubusercontent.com/104911658/213723977-256a482f-2f91-4a73-aaa5-6671be0079eb.png)
+
+29. Para el relevador de la figura 12-34, si la cara del polo mide 2 cm por 2.5 cm y se requiere una fuerza de 2 libras para cerrar el espacio, ¿cuánto flujo se necesita (en webers)?
+
+![image](https://user-images.githubusercontent.com/104911658/213724286-97b92daa-f2a9-43db-9f07-a3469be652b6.png)
 
 4. VIDEO:
 
